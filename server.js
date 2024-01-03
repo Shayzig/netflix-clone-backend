@@ -15,6 +15,7 @@ app.use(express.json())
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
 } else {
+    console.log(process.env.NODE_ENV)
     const corsOptions = {
         origin: ['http://127.0.0.1:3000',
             'http://localhost:3000',
@@ -45,6 +46,7 @@ app.get('/**', (req, res) => {
 
 
 import { logger } from './services/logger.service.js'
+import { log } from './middlewares/logger.middleware.js'
 const port = process.env.PORT || 3032
 server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
