@@ -1,1 +1,0 @@
-import{k as i,d as t}from"./index-efd1aa92.js";class h{constructor(s){this.xh=s}qc(){i(this.Dc)&&this.Nj()}rc(){t(this.Dc)&&window.cancelAnimationFrame(this.Dc),this.Dc=void 0}Nj(){this.Dc=window.requestAnimationFrame(()=>{i(this.Dc)||(this.xh(),this.Nj())})}}export{h as R};
