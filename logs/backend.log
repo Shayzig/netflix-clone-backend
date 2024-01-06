@@ -668,3 +668,8 @@
 6.1.2024, 16:43:55 - DEBUG - Getting Movies: | {} 
 6.1.2024, 16:43:55 - INFO - Sample Logger Middleware 
 6.1.2024, 16:43:55 - DEBUG - Getting Movies: | {} 
+6.1.2024, 20:04:40 - INFO - Server is running on port: 3032 
+6.1.2024, 20:10:36 - INFO - Sample Logger Middleware 
+6.1.2024, 20:10:38 - DEBUG - Getting Movies: | {} 
+6.1.2024, 20:10:38 - INFO - Sample Logger Middleware 
+6.1.2024, 20:10:39 - DEBUG - Getting Movies: | {} 

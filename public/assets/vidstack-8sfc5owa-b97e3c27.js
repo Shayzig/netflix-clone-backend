@@ -1,0 +1,1 @@
+import{H as t}from"./vidstack-HAbxB-FO-663423c5.js";import"./index-4ec19cf9.js";import"./vidstack-UK1DzmJ--1f8bbe99.js";class u extends t{constructor(){super(...arguments),this.$$PROVIDER_TYPE="AUDIO"}get type(){return"audio"}setup(e){super.setup(e),this.type==="audio"&&e.delegate.Pb("provider-setup",this)}get audio(){return this.Ga}}export{u as AudioProvider};
