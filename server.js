@@ -15,7 +15,6 @@ app.use(express.json())
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
 } else {
-    console.log(process.env.NODE_ENV)
     const corsOptions = {
         origin: ['http://127.0.0.1:3000',
             'http://localhost:3000',
