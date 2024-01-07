@@ -795,3 +795,364 @@
 7.1.2024, 19:15:11 - DEBUG - Getting Movies: | {} 
 7.1.2024, 19:16:40 - INFO - Sample Logger Middleware 
 7.1.2024, 19:16:40 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:26:30 - INFO - Server is running on port: 3032 
+7.1.2024, 23:26:41 - INFO - Sample Logger Middleware 
+7.1.2024, 23:26:41 - ERROR - Cannot Connect to DB | Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vsvnkwd.mongodb.net 
+7.1.2024, 23:26:41 - ERROR - Failed to get Mongo collection | Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vsvnkwd.mongodb.net 
+7.1.2024, 23:26:41 - ERROR - cannot find movies | Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vsvnkwd.mongodb.net 
+7.1.2024, 23:26:41 - ERROR - Failed to get movies | Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vsvnkwd.mongodb.net 
+7.1.2024, 23:26:41 - INFO - Sample Logger Middleware 
+7.1.2024, 23:26:43 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:26:51 - INFO - Server is running on port: 3032 
+7.1.2024, 23:29:52 - INFO - Sample Logger Middleware 
+7.1.2024, 23:30:00 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:30:06 - INFO - Sample Logger Middleware 
+7.1.2024, 23:30:07 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:30:34 - INFO - Sample Logger Middleware 
+7.1.2024, 23:30:34 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:33:27 - INFO - Sample Logger Middleware 
+7.1.2024, 23:33:27 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:33:27 - INFO - Sample Logger Middleware 
+7.1.2024, 23:33:27 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:33:55 - INFO - Sample Logger Middleware 
+7.1.2024, 23:33:55 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:33:55 - INFO - Sample Logger Middleware 
+7.1.2024, 23:33:55 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:37:07 - INFO - Sample Logger Middleware 
+7.1.2024, 23:37:07 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:37:07 - INFO - Sample Logger Middleware 
+7.1.2024, 23:37:07 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:37:55 - INFO - Sample Logger Middleware 
+7.1.2024, 23:37:55 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:37:55 - INFO - Sample Logger Middleware 
+7.1.2024, 23:37:55 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:42:47 - INFO - Sample Logger Middleware 
+7.1.2024, 23:42:47 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:42:47 - INFO - Sample Logger Middleware 
+7.1.2024, 23:42:47 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:45:06 - INFO - Sample Logger Middleware 
+7.1.2024, 23:45:06 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:45:07 - INFO - Sample Logger Middleware 
+7.1.2024, 23:45:07 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:47:25 - INFO - Sample Logger Middleware 
+7.1.2024, 23:47:25 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:47:32 - INFO - Sample Logger Middleware 
+7.1.2024, 23:47:32 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:00 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:00 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:04 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:04 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:04 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:04 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:39 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:40 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:44 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:44 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:44 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:45 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:53 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:53 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:53 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:54 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:54 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:54 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:49:54 - INFO - Sample Logger Middleware 
+7.1.2024, 23:49:54 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:08 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:08 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:08 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:08 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:28 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:28 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:28 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:28 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:35 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:36 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:36 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:36 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:50 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:50 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:50:50 - INFO - Sample Logger Middleware 
+7.1.2024, 23:50:51 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:52:26 - INFO - Sample Logger Middleware 
+7.1.2024, 23:52:26 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:53:00 - INFO - Sample Logger Middleware 
+7.1.2024, 23:53:00 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:53:00 - INFO - Sample Logger Middleware 
+7.1.2024, 23:53:00 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:53:29 - INFO - Sample Logger Middleware 
+7.1.2024, 23:53:29 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:53:31 - INFO - Sample Logger Middleware 
+7.1.2024, 23:53:31 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:53:56 - INFO - Sample Logger Middleware 
+7.1.2024, 23:53:57 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:56:45 - INFO - Sample Logger Middleware 
+7.1.2024, 23:56:45 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:57:00 - INFO - Sample Logger Middleware 
+7.1.2024, 23:57:00 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:10 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:10 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:32 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:32 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:36 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:36 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:36 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:53 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:53 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:58:53 - INFO - Sample Logger Middleware 
+7.1.2024, 23:58:53 - DEBUG - Getting Movies: | {} 
+7.1.2024, 23:59:07 - INFO - Sample Logger Middleware 
+7.1.2024, 23:59:07 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:00:51 - INFO - Sample Logger Middleware 
+8.1.2024, 0:00:51 - INFO - Sample Logger Middleware 
+8.1.2024, 0:00:51 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:00:51 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:00:51 - INFO - Sample Logger Middleware 
+8.1.2024, 0:00:52 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:00:52 - INFO - Sample Logger Middleware 
+8.1.2024, 0:00:52 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:00:52 - INFO - Sample Logger Middleware 
+8.1.2024, 0:00:52 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:53 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:53 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:53 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:53 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:53 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:54 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:54 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:54 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:54 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:54 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:54 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:54 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:02:54 - INFO - Sample Logger Middleware 
+8.1.2024, 0:02:54 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:06:07 - INFO - Sample Logger Middleware 
+8.1.2024, 0:06:07 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:08:16 - INFO - Sample Logger Middleware 
+8.1.2024, 0:08:16 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:08:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:08:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:22 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:22 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:22 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:22 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:22 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:22 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:22 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:22 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:22 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:43 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:43 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:43 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:10:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:10:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:16 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:16 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:16 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:19 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:19 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:19 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:58 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:58 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:14:59 - INFO - Sample Logger Middleware 
+8.1.2024, 0:14:59 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:15:24 - INFO - Sample Logger Middleware 
+8.1.2024, 0:15:24 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:15:24 - INFO - Sample Logger Middleware 
+8.1.2024, 0:15:24 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:35:55 - INFO - Sample Logger Middleware 
+8.1.2024, 0:35:56 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:36:10 - INFO - Sample Logger Middleware 
+8.1.2024, 0:36:10 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:09 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:09 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:14 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:14 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:14 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:14 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:42 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:42 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:50 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:50 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:50 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:50 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:37:55 - INFO - Sample Logger Middleware 
+8.1.2024, 0:37:55 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:38:06 - INFO - Sample Logger Middleware 
+8.1.2024, 0:38:06 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:38:51 - INFO - Sample Logger Middleware 
+8.1.2024, 0:38:51 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:38:51 - INFO - Sample Logger Middleware 
+8.1.2024, 0:38:52 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:07 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:08 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:08 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:08 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:08 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:08 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:08 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:08 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:34 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:34 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:39:34 - INFO - Sample Logger Middleware 
+8.1.2024, 0:39:34 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:44:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:44:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:44:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:44:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:44:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:44:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:44:57 - INFO - Sample Logger Middleware 
+8.1.2024, 0:44:57 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:45:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:45:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:45:44 - INFO - Sample Logger Middleware 
+8.1.2024, 0:45:44 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:47:21 - INFO - Sample Logger Middleware 
+8.1.2024, 0:47:21 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:47:25 - INFO - Sample Logger Middleware 
+8.1.2024, 0:47:25 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:47:25 - INFO - Sample Logger Middleware 
+8.1.2024, 0:47:25 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:47:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:47:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:47:45 - INFO - Sample Logger Middleware 
+8.1.2024, 0:47:45 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:48:31 - INFO - Sample Logger Middleware 
+8.1.2024, 0:48:31 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:48:31 - INFO - Sample Logger Middleware 
+8.1.2024, 0:48:32 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:48:32 - INFO - Sample Logger Middleware 
+8.1.2024, 0:48:32 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:48:32 - INFO - Sample Logger Middleware 
+8.1.2024, 0:48:32 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:17 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:17 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:50:18 - INFO - Sample Logger Middleware 
+8.1.2024, 0:50:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:12 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:12 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:12 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:12 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:12 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:12 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:12 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:13 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:13 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:13 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:13 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:13 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:13 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:13 - DEBUG - Getting Movies: | {} 
+8.1.2024, 0:51:13 - INFO - Sample Logger Middleware 
+8.1.2024, 0:51:13 - DEBUG - Getting Movies: | {} 
