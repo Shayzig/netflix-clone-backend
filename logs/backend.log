@@ -1313,3 +1313,12 @@
 8.1.2024, 19:44:27 - DEBUG - Getting Movies: | {} 
 8.1.2024, 19:44:27 - INFO - Sample Logger Middleware 
 8.1.2024, 19:44:27 - DEBUG - Getting Movies: | {} 
+8.1.2024, 19:46:02 - INFO - Server is running on port: 3032 
+8.1.2024, 19:46:16 - INFO - Sample Logger Middleware 
+8.1.2024, 19:46:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 19:46:18 - INFO - Sample Logger Middleware 
+8.1.2024, 19:46:18 - DEBUG - Getting Movies: | {} 
+8.1.2024, 19:53:30 - INFO - Sample Logger Middleware 
+8.1.2024, 19:53:31 - DEBUG - Getting Movies: | {} 
+8.1.2024, 19:53:31 - INFO - Sample Logger Middleware 
+8.1.2024, 19:53:31 - DEBUG - Getting Movies: | {} 
